@@ -17,3 +17,5 @@
 #### npm install @clerk/clerk-react
 
 #### npm install react-router-dom
+
+#### npm install react-icons
